@@ -1,0 +1,16 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_USER = "GET_USER";
+export const GET_USERS = "GET_USERS";
+export const GET_PROFILE = "GET_PROFILE";
+export const GET_PROFILES = "GET_PROFILES";
+export const GET_ALL_PROFILES = "GET_ALL_PROFILES";
+export const SET_LOADING = "SET_LOADING";
+export const CLEAR_CURRENT_PROFILE = "CLEAR_CURRENT_PROFILE";
+export const GET_PROFILE_BY_HANDLE = "GET_PROFILE_BY_HANDLE";
+export const GET_POSTS = "GET_POSTS";
+export const GET_MY_POSTS = "GET_MY_POSTS";
+export const ADD_POST = "ADD_POST";
+export const DELETE_POST = "DELETE_POST";
+export const UPDATE_LIKES = "UPDATE_LIKES";
+export const ADD_COMMENT = "ADD_COMMENT";
+export const DELETE_COMMENT = "DELETE_COMMENT";
